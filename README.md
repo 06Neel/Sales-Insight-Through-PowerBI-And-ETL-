@@ -14,7 +14,7 @@ Sales Insight Through PowerBI And ETL is a project that aims to provide meaningf
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/sales-insight-powerbi-etl.git`
+1. Clone the repository: `git clone https://github.com/06Neel/Sales-Insight-Through-PowerBI-And-ETL-.git`
 2. Install any required dependencies or tools as specified in the project documentation.
 3. Configure the ETL process to connect to your sales data sources and perform necessary transformations.
 4. Import the cleansed and transformed sales data into PowerBI.
